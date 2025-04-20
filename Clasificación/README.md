@@ -4,5 +4,4 @@ En esta carpeta podrás encontrar diferentes proyectos relacionados con problema
 
 ## Proyectos incluidos
 
-- Clasificación de imágenes
-- Clasificación de diabetes
+- [Clasificación de diabetes](https://github.com/FernandoValencia-DS/data-science-portfolio/blob/main/Clasificaci%C3%B3n/Diabetes.ipynb)
